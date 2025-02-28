@@ -1,0 +1,124 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  height: 100vh;
+  width: auto;
+}
+.App-main{
+  display: flex;
+  justify-content: center;
+  align-items:center ;
+  flex-direction: column;
+}
+.app-main-small{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.app-main-1{
+  height:580px;
+  width: 300px;
+}
+.App-main2{
+  height: 61px;
+  width: 1360px;
+  /* border: 1px solid red; */
+  background-color:#181818 ;
+  display: flex;
+  justify-content: space-between;
+  align-items: center; 
+}
+#rest20{
+  height: 50px;
+  width: 50px;
+}
+.App-main2-1{
+  width: 250px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center; 
+}
+#para{
+  font-weight: 400;
+  font-size: 17px;
+
+}
+/* #small-{
+  height: 15px;
+  width:15px;
+} */
+.App-main2-2-1{
+  width: 600px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: -15px;
+  gap: 40px;
+}
+#line{
+  width: 550px;
+  height: 3px;
+  margin-bottom: -15px;
+  background-color: green;
+  border: none;
+}
+.App-main2-2{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: column;
+}
+.App-main2-3{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  gap: 10px;
+  margin-right: 20px;
+}
+#line2{
+  width: 70px;
+}
+#small-shuf:hover{
+height: 27px;
+}
+
+#small-left:hover{
+  height: 15px;
+}
+#small-play:hover{
+  height: 42px;
+}
+#small-right:hover{o
+  
+  height: 15px;
+}
+#small-fluent:hover{
+  height: 25px;
+}
+#mic:hover{
+  height: 25px;
+}
+#mic{
+  margin-left: 25px;
+}
+
+#speaker:hover{
+  height: 25px;
+}
+#small-fluent:hover{
+  height: 25px;
+}
+#laptop:hover{
+  height: 25px;
+}
+#carbon:hover{
+  height: 35px;
+  margin-top: -15px;
+}
+#carbon{
+  margin-top: -5px;
+}

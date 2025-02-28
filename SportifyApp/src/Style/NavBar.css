@@ -1,0 +1,48 @@
+.page-main-1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    height: 45px;
+    width: 1000px;
+}
+
+#left{
+    background-color: #000000;
+    border-radius: 20px;
+    height: 35px;
+}
+#right{
+    background-color: #000000;
+    border-radius: 20px;
+    height: 35px;
+    margin-left: 15px;
+}
+.login{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 147px;
+    height: 35px;
+    background-color: #000000;
+    border-radius: 30px;
+    
+}
+#button-login{
+    height: 35px;
+    width: 35px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000000;
+    margin-right: 10px;
+}
+#group11{
+    height: 30px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
